@@ -1,0 +1,14 @@
+@charset "utf-8"
+*{margin:0;padding:0;}
+body{background:#68cdd5;font-family:"Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,宋体;}
+body a img{margin:2%;}
+.fl{float:left;}
+.fr{float:right;}
+.logo{margin:5% auto;}
+.logo img{display:block;margin:0 auto;}
+.main{width:80%;height:auto;margin:5% auto;}
+.main p{margin:6% auto;font-size:1.875rem;text-align:left;line-height:3.375rem;color:#fff;}
+
+.foot{width:80%;margin:5% 10% 20% 10%;}
+.foot p{color:#fff;font-size:1.5rem;text-align:center;}
+.contact img,.sign img{display:block;margin:0 auto;}
